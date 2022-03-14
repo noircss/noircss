@@ -1,4 +1,5 @@
 ### Hello I'm ShahRukh and I am a self-taught web developer 💻
+### I’m currently learning Javascript ![javascript](https://user-images.githubusercontent.com/95552151/158097266-846338ad-5745-405d-82e5-8585c6c10bfa.png)
 
 <!--
 **noircss/noircss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
