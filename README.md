@@ -22,9 +22,8 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 <!-- [Instagram]() -->
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery)](https://skills.thijs.gg)
 <!-- [Trello]() -->
-### I’m currently learning ![javascript](https://user-images.githubusercontent.com/95552151/158097266-846338ad-5745-405d-82e5-8585c6c10bfa.png) and ![react](https://user-images.githubusercontent.com/95552151/158097305-e59d3f00-7685-4b5d-9651-fe063a3b5c48.png) <svg width="76" height="76" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 
 
