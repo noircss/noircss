@@ -9,11 +9,11 @@
 
 I grew up in Bloomington, IL, and I have always had a passion for computers and design. With a bit of an IT background and a decent design background I decided to pursue web development! I currently reside in Michigan, and I am changing my focus to web development and UX/UI design. Feel free to contact me on either one of my social medias down below!
 
-## Projects
+## Favorited Projects
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Sed pulvinar justo vitae tortor ullamcorper varius.
-- Donec sollicitudin ligula sit amet metus porttitor cursus.
+- React based form with validation.
+- Scroll based portfolio website.
+- A simple and responsive calculator.
 
 ## Social
 
