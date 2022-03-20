@@ -18,7 +18,7 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 ## Social
 
 <!-- Here you would put your social media -->
-
+https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true
 <!-- [Instagram]() -->
 ### Skills
 
