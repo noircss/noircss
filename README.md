@@ -28,4 +28,4 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 
 
 
-![noircss's GitHub stats](https://github-readme-stats.vercel.app/api?username=noircss&show_icons=true&theme=dracula)
+
