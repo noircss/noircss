@@ -1,4 +1,4 @@
-### # Hello world, my name is ShahRukh Ahmed
+### Hello world, my name is ShahRukh Ahmed
 
 ## Little bit about me
 
