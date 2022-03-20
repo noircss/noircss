@@ -18,11 +18,11 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 ## Social
 
 <!-- Here you would put your social media -->
-<a class="icon-twitter social-button color" href="http://twitter.com/noircss"></a>
+
 <!-- [Instagram]() -->
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery,bootstrap,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery,bootstrap,react,photoshop)](https://skills.thijs.gg)
 <!-- [Trello]() -->
 
 
