@@ -18,7 +18,7 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 ## Social
 
 <!-- Here you would put your social media -->
-
+<a class="icon-twitter social-button color" href="http://twitter.com/noircss"></a>
 <!-- [Instagram]() -->
 ### Skills
 
