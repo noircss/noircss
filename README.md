@@ -22,7 +22,7 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 <!-- [Instagram]() -->
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery,bootstrap)](https://skills.thijs.gg)
 <!-- [Trello]() -->
 
 
