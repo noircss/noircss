@@ -11,7 +11,7 @@ I grew up in Bloomington, IL, and I have always had a passion for computers and 
 
 ## Favorited Projects
 
-- React based form with validation.
+- Crypto price tracker
 - Scroll based portfolio website.
 - A simple and responsive calculator.
 
