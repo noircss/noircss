@@ -27,9 +27,6 @@ I have been involved with tech for years, and made the change from graphic desig
                     </p>
                     
      ### Socials
-                  
-                  
-                <p align="left">
                           
                       <a href="https://www.behance.com/shahrukhahmed12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
                           
