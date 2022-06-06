@@ -1,7 +1,7 @@
 Hi 👋 My name is ShahRukh Ahmed
 ===============================
 
-Web developer & UX designer
+Full-stack developer & UI designer
 ---------------------------
 
 Hello! I am ShahRukh Ahmed, or better known as Shah for short. I am from Bloomington, IL, and I am a web developer and designer. I use the word designer because I started as a graphic designer and eventually found a specialization in UX design. I am open to paid work if you contact me on any number of my socials.
