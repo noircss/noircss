@@ -9,7 +9,7 @@ Hello! I am ShahRukh Ahmed, or better known as Shah for short. I am from Bloomin
 * 🌍  I'm based in Illinois
 * 🖥️  See my portfolio at [Website](http://noircss.github.io/portfolio)
 * ✉️  You can contact me at [badshah21204@gmail.com](mailto:badshah21204@gmail.com)
-* 🚀  I'm currently working on [Travel website](http://noircss.github.io/travel-website)
+* 🚀  I'm currently working on a [Gym website]()
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on web applications
 * ⚡  Currently learning IT and cybersecurity
