@@ -7,7 +7,7 @@ Full-stack developer & UI designer
 Hello! I am ShahRukh Ahmed, or better known as Shah for short. I am from Bloomington, IL, and I am a web developer and designer. I use the word designer because I started as a graphic designer and eventually found a specialization in UX design. I am open to paid work if you contact me on any number of my socials.
 
 * 🌍  I'm based in Illinois
-* 🖥️  See my portfolio at [Website](http://noircss.github.io/portfolio)
+* 🖥️  See my portfolio at [Website](http://noircss.github.io/shahsportfolio)
 * ✉️  You can contact me at [badshah21204@gmail.com](mailto:badshah21204@gmail.com)
 * 🚀  I'm currently working on a [Gym website]()
 * 🧠  I'm learning React
