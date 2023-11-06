@@ -4,7 +4,7 @@ Hi 👋 My name is ShahRukh Ahmed
 Engineer
 ---------------------------
 
-Hello! I am ShahRukh Ahmed, or better known as Shah for short. I am from Illinois, and I am a web developer and designer. I use the word designer because I started as a graphic designer and eventually found a specialization in UX design. I am open to paid work if you contact me on any number of my socials.
+Hello! I am ShahRukh Ahmed. I am an IT Engineer with knowledge of networking, hardware/software, troubleshooting, web development, and programming. I seek to learn every day. Welcome to my GitHub! Have fun. 
 
 <a href="https://www.twitter.com/noircss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/noircss?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
